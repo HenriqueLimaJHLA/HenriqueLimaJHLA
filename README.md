@@ -1,7 +1,7 @@
 ## Bem Vindo ao meu perfil do GitHub!!
 
 <br><br>
-<img src="https://i.giphy.com/media/4oMoIbIQrvCjm/giphy.webp" >
+<center><img src="https://i.giphy.com/media/4oMoIbIQrvCjm/giphy.webp"></center>
 <br><br>
 ## Apresentação
 
