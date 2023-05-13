@@ -1,2 +1,2 @@
 ### Bem Vindo ao meu perfil do GitHub!!
-<center><h4 color="red">Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio. Espero que gostem do meu perfil!!!<h4></center>
+<center><h4 style="color=red">Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio. Espero que gostem do meu perfil!!!<h4></center>
