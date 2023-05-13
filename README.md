@@ -13,8 +13,8 @@
 
 <div>
   
-  <a href="" target="_blank"><img src="" ></a><br>
-  <a href="" target="_blank"><img src="" ></a><br>
-  <a href="" target="_blank"><img src="" ></a><br>
+  <a href="" target="_blank"><img src="" ></a>
+  <a href="" target="_blank"><img src="" ></a>
+  <a href="" target="_blank"><img src="" ></a>
   
   </div>
