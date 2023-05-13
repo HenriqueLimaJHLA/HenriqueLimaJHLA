@@ -24,7 +24,7 @@
 
 <div>
   
-  <a href="" target="_blank"><img src="https://www.pngrepo.com/png/353903/180/instagram.png" ></a>
+  <a href="" target="_blank"><img src="https://www.pngrepo.com/png/353903/180/instagram.png" height="100px" width="100px" style="background: red"></a>
   <a href="" target="_blank"><img src="" ></a>
   <a href="" target="_blank"><img src="" ></a>
   
