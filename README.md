@@ -23,9 +23,10 @@
   
 <br><br>
 ## Dados
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquelimajhla&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelimajhla&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquelimajhla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
 <br><br>
 ## Entre em Contato comigo:
 
