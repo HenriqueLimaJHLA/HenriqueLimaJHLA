@@ -49,6 +49,8 @@
   <code>JS | jQuery | Ajax</code>
   •
   <code>HTML/CSS</code>
+  •
+  <code>Bootstrap | Fonts Google</code>
   <br>
   <a href="" target="_blank">Projeto no Linkedin</a> 
 </div>
@@ -65,6 +67,8 @@
   <code>JS | jQuery | Ajax</code>
   •
   <code>HTML/CSS</code>
+  •
+  <code>Fonts Google</code>
   <br>
   <a href="" target="_blank">Projeto no Linkedin</a> 
   <br>
