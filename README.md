@@ -4,7 +4,7 @@
 ## Apresentação:
 <div>
   <li>👨‍💻 Sou Técnico em Desenvolvimento de Sistemas pela ETEC</li>
-  <li></li>
+  <li><img src="https://unipeadvilamaria.com.br/wp-content/uploads/2018/11/icone.png"> Bacharelando em Ciência da Computação na Universidade Paulista </li>
   <li></li>
 </div>
 <center><p>Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec de Sapopemba. Espero que gostem do meu perfil!!!</p></center>
