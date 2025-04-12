@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="45px" width="45px"/>
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height="40px" width="45px"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="45px" width="45px"/> 
   <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=FFFFFF" height="50px" width="50px"/> 
