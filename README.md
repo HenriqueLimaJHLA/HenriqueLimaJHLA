@@ -17,7 +17,7 @@
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height="40px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="45px" width="45px"/> 
-  <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=FFFFFF" height="45px" width="45px"/> 
+  <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=FFFFFF" height="50px" width="50px"/> 
 </div>
   
 <br><br>
