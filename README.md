@@ -53,7 +53,7 @@
   <code>JS | jQuery | Ajax</code>
   •
   <code>HTML/CSS</code>
-  <br><br>
+  <br>
   <a href="">Ver no GitHub</a>
 </div>
 
