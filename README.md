@@ -50,9 +50,9 @@
   •
   <code>HTML/CSS</code>
   •
-  <code>Bootstrap | Fonts Google</code>
+  <code>Bootstrap | Fonts Google | SweetAlert2</code>
   <br>
-  <a href="" target="_blank">Projeto no Linkedin</a> 
+  <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-lima-alves-23a431254/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAD62Kw4BkeU32yEFR_PMMaKUXr9VTf1PMp0" target="_blank">Projeto no Linkedin</a> 
 </div>
 
 <br>
@@ -67,7 +67,7 @@
   <code>JS | jQuery | Ajax</code>
   •
   •
-  <code>Bibliotecas JS: jsPDF | Exceljs</code>
+  <code>Bibliotecas JS: jsPDF | Exceljs | SweetAlert2</code>
   •
   <code>HTML/CSS</code>
   •
