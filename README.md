@@ -49,7 +49,8 @@
   <code>JS | jQuery | Ajax</code>
   •
   <code>HTML/CSS</code>
-  <a href="">Ver no GitHub</a> 
+  <br>
+  <a href="" target="_blank">Projeto no Linkedin</a> 
 </div>
 
 <br>
@@ -65,7 +66,9 @@
   •
   <code>HTML/CSS</code>
   <br>
-  <a href="">Ver no GitHub</a>
+  <a href="" target="_blank">Projeto no Linkedin</a> 
+  <br>
+  <a href="" target="_blank">Ver no GitHub</a>
 </div>
 
 ## 🌐 Contato:
