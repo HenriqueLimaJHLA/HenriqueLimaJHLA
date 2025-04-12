@@ -41,7 +41,7 @@
 ## ⚙️ Projetos
 <div>
   <h3>Sistema de Gerenciamento de Reservas de Ambientes (TCC):</h3>
-  <p></p>
+  <p>Aplicação web para gestão eficiente de reservas de espaços em instituições de ensino e centros culturais, como a Fábrica de Cultura e Etec de Sapopemba. O sistema substitui métodos manuais e offline, promovendo agilidade, organização e digitalização na administração de ambientes. - CRUD, relatórios, WebSockets, real time, login, cadastro, admin.</p>
   <code>PHP | PHPmail</code>
   •
   <code>SQL | MySQL</code>
