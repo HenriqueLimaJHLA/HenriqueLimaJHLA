@@ -66,7 +66,6 @@
   •
   <code>JS | jQuery | Ajax</code>
   •
-  •
   <code>Bibliotecas JS: jsPDF | Exceljs | SweetAlert2</code>
   •
   <code>HTML/CSS</code>
