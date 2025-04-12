@@ -32,8 +32,8 @@
 ## Contato:
 
 <div>
-  <a href="https://instagram.com/rick.lima._?igshid=ZGUzMzM3NWJiOQ=="><img src=""></a>
-  <a href="mailto:josehenriquefnbr@gmail.com"><img src=""></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-23a431254/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a>
+  <a href="https://instagram.com/rick.lima._?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src=""></a>
+  <a href="mailto:josehenriquefnbr@gmail.com" target="_blank"><img src=""></a>
+  <a href="https://www.linkedin.com/in//josé-henrique-lima-alves-23a431254/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45px" width="45px"></a>
   <a href="https://twitter.com/HenriqueLimaZL" target="_blank"><img src=""></a>
 </div>
