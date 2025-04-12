@@ -55,10 +55,8 @@
   <code>Bootstrap | Fonts Google | SweetAlert2</code>
   <br>
   <p>with/ Equipe LPITech</p>
-  
   <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-lima-alves-23a431254/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAD62Kw4BkeU32yEFR_PMMaKUXr9VTf1PMp0" target="_blank">Projeto no Linkedin</a> 
 </div>
-
 <br>
 
 <div>
