@@ -8,10 +8,9 @@
   <li>Em busca do ingresso no mercado de trabalho na área de T.I</li>
 </div>
 
-## Idiomas
+## 🌍 Idiomas
 <div>
-  <h3>Idiomas</h3>
-  <h5>Inglês: Básico – Em progresso, com foco em leitura e escrita técnica.</h5>
+  <p>Inglês: Básico – Em progresso, com foco em leitura e escrita técnica.</p>
 </div>
 
 ## 💻 Linguagens | Ferramentas | Frameworks:
