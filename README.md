@@ -4,7 +4,7 @@
 ## Apresentação:
 <div>
   <li>👨‍💻 Sou Técnico em Desenvolvimento de Sistemas pela ETEC</li>
-  <li><img src="https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/458919598_955958116575320_5846258382792520116_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEcYxf6W3U-mQ6T3ypNqHcevLOQEsTngP28s5ASxOeA_dy24uZDKB76FqLXbHZlapQl7b4YuF1bBFBoFLMjQobd&_nc_ohc=3Wi39gsKHTcQ7kNvwGlMEiX&_nc_oc=AdnbP-Zc-gFjQEUOsavPghYuiXEW3oEGBLLlecCv02G034oUSZ5hdvLr6ywQequ5IyY&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&_nc_gid=pTVSHA9MESCeVpR2B5QNew&oh=00_AfG6gmohyokEfvYKUoVRxUDFfY_g-0YBSru91PdLqLYIfw&oe=68005B32" height="30px" width="20px"> Bacharelando em Ciência da Computação na Universidade Paulista </li>
+  <li><img src="https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/458919598_955958116575320_5846258382792520116_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEcYxf6W3U-mQ6T3ypNqHcevLOQEsTngP28s5ASxOeA_dy24uZDKB76FqLXbHZlapQl7b4YuF1bBFBoFLMjQobd&_nc_ohc=3Wi39gsKHTcQ7kNvwGlMEiX&_nc_oc=AdnbP-Zc-gFjQEUOsavPghYuiXEW3oEGBLLlecCv02G034oUSZ5hdvLr6ywQequ5IyY&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&_nc_gid=pTVSHA9MESCeVpR2B5QNew&oh=00_AfG6gmohyokEfvYKUoVRxUDFfY_g-0YBSru91PdLqLYIfw&oe=68005B32" height="25px" width="25px"> Bacharelando em Ciência da Computação na Universidade Paulista </li>
   <li></li>
 </div>
 <center><p>Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec de Sapopemba. Espero que gostem do meu perfil!!!</p></center>
