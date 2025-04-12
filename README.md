@@ -1,10 +1,11 @@
 ## Olá, seja bem vindo ao meu perfil do GitHub!!
+</br>
 
 ## Apresentação:
 <center><p>Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec de Sapopemba. Espero que gostem do meu perfil!!!</p></center>
+</br>
 
 ## Linguagens | Ferramentas | Frameworks:
-
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="45px" width="45px"/>
@@ -21,15 +22,16 @@
   <img src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000" height="45px" width="45px"/> 
   <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" height="45px" width="45px"/> 
 </div>
+</br>
   
 ## Github Stats:
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelimajhla&layout=compact&langs_count=7&theme=dark"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquelimajhla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
+</br>
   
 ## Contato:
-
 <div>
   <a href="mailto:josehenriquefnbr@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFFFFF" height="40px" width="40px"></a>
   <a href="https://www.linkedin.com/in//josé-henrique-lima-alves-23a431254/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=FFFFFF" height="40px" width="40px"></a>
