@@ -15,6 +15,8 @@
   <img src="https://www.php.net//images/logos/new-php-logo.svg" height="60px" width="60px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50px" width="60px"/>
   <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" height="50px" width="50px"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="50px" width="50px"/>
+  
 </div>
   
 <br><br>
