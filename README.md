@@ -42,7 +42,7 @@
 <div>
   <h3>Sistema de Gerenciamento de Reservas de Ambientes (TCC):</h3>
 </div>
-
+<br>
 <div>
   <h3>Sistema de Controle de Estoque de Adegas:</h3>
   <p>Aplicação completa (fullstack) que visa trazer consistência ao Gerenciamento de Estoque das Adegas - CRUD, relatórios em pdf e excel, login, cadastramento de produtos e usuários.</p>
