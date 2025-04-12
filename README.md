@@ -41,8 +41,19 @@
 ## ⚙️ Projetos
 <div>
   <h3>Sistema de Gerenciamento de Reservas de Ambientes (TCC):</h3>
+  <p></p>
+  <code>PHP | PHPmail</code>
+  •
+  <code>SQL | MySQL</code>
+  •
+  <code>JS | jQuery | Ajax</code>
+  •
+  <code>HTML/CSS</code>
+  <a href="">Ver no GitHub</a> 
 </div>
+
 <br>
+
 <div>
   <h3>Sistema de Controle de Estoque de Adegas:</h3>
   <p>Aplicação completa (fullstack) que visa trazer consistência ao Gerenciamento de Estoque das Adegas - CRUD, relatórios em pdf e excel, login, cadastramento de produtos e usuários.</p>
