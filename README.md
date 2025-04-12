@@ -36,6 +36,9 @@
 <div>
   <h3>Sistema de Gerenciamento de Reservas de Ambientes (TCC):</h3>
 </div>
+<div>
+  <h3>Sistema de Controle de Estoque de Adegas:</h3>
+</div>
 
 ## 🌐 Contato:
 <div>
