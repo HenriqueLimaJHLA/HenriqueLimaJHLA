@@ -9,9 +9,9 @@
 ## Linguagens | Ferramentas
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45px" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45px" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45px" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="45px" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="45px" width="45px"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://www.php.net//images/logos/new-php-logo.svg" height="45px" width="45px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40px" width="45px"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height="40px" width="45px"/>
