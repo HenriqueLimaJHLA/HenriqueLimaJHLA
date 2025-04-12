@@ -1,12 +1,11 @@
 ## 👋 Olá, seja bem vindo ao meu perfil do GitHub!!
-</br>
+
 ## Apresentação:
 <div>
   <li>👨‍💻 Sou Técnico em Desenvolvimento de Sistemas pela ETEC</li>
   <li><img src="https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/458919598_955958116575320_5846258382792520116_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEcYxf6W3U-mQ6T3ypNqHcevLOQEsTngP28s5ASxOeA_dy24uZDKB76FqLXbHZlapQl7b4YuF1bBFBoFLMjQobd&_nc_ohc=3Wi39gsKHTcQ7kNvwGlMEiX&_nc_oc=AdnbP-Zc-gFjQEUOsavPghYuiXEW3oEGBLLlecCv02G034oUSZ5hdvLr6ywQequ5IyY&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&_nc_gid=pTVSHA9MESCeVpR2B5QNew&oh=00_AfG6gmohyokEfvYKUoVRxUDFfY_g-0YBSru91PdLqLYIfw&oe=68005B32" height="20px" width="20px"> Bacharelando em Ciência da Computação na Universidade Paulista </li>
   <li>Tenho preferência em desenvolvimento back end e Banco de Dados - PHP | MySQL</li>
 </div>
-</br>
 
 ## 💻 Linguagens | Ferramentas | Frameworks:
 <div align="center">
@@ -25,14 +24,12 @@
   <img src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000" height="45px" width="45px"/> 
   <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" height="45px" width="45px"/> 
 </div>
-</br>
   
 ## 🌟 Github Stats:
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelimajhla&layout=compact&langs_count=7&theme=dark"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquelimajhla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
-</br>
   
 ## 🌐 Contato:
 <div>
