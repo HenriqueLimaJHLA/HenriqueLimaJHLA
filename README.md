@@ -38,7 +38,7 @@
 </div>
 
 
-## Projetos
+## ⚙️ Projetos
 <div>
   <h3>Sistema de Gerenciamento de Reservas de Ambientes (TCC):</h3>
 </div>
