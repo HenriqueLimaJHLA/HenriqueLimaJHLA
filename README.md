@@ -34,8 +34,9 @@
 
 ## Projetos
 <div>
-  ### Sistema de Gerenciamento de Reservas de Ambientes (TCC)
+  # Sistema de Gerenciamento de Reservas de Ambientes (TCC)
 </div>
+
 ## 🌐 Contato:
 <div>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnSmVgjqdBcQjMvqMDSfgrPghKkrdSHtNVvNcfDcZgGdQWfjZHlFqQMsVNjTCMMgXbfDs" target="blink"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFFFFF" height="40px" width="40px"></a>
