@@ -45,12 +45,13 @@
 
 <div>
   <h3>Sistema de Controle de Estoque de Adegas:</h3>
-  <code>Next.js</code>
+  <code>PHP</code>
   •
-  <code>Next.js</code>
+  <code>SQL | MySQL</code>
   •
-  <code>Next.js</code>
+  <code>JS | jQuery | Ajax</code>
   •
+  <code>HTML/CSS</code>
   <br>
   <a href="">Ver no GitHub</a>
 </div>
