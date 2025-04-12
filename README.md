@@ -10,7 +10,7 @@
 
 ## Idiomas
 <div>
-  <h1>Idiomas</h1>
+  <h3>Idiomas</h3>
   <h5>Inglês: Básico – Em progresso, com foco em leitura e escrita técnica.</h5>
 </div>
 
