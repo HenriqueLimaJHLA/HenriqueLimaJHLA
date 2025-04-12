@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
   <img src="https://www.php.net//images/logos/new-php-logo.svg" height="50px" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50px" width="50px"/>
 </div>
   
 <br><br>
@@ -26,10 +27,8 @@
 ## Entre em Contato comigo:
 
 <div>
-  
   <a href="https://instagram.com/rick.lima._?igshid=ZGUzMzM3NWJiOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:josehenriquefnbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-23a431254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/HenriqueLimaZL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  
-  </div>
+</div>
