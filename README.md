@@ -7,7 +7,7 @@
 <br>
 ## Linguagens | Ferramentas | Frameworks:
 
-<div>
+<div style="user-select:none; pointer-events: none;">
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="45px" width="45px"/>
