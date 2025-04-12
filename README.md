@@ -46,11 +46,12 @@
 <div>
   <h3>Sistema de Controle de Estoque de Adegas:</h3>
   <code>Next.js</code>
-  " • "
+  •
   <code>Next.js</code>
-  " • "
+  •
   <code>Next.js</code>
-  " • "
+  •
+  <br>
   <a href="">Ver no GitHub</a>
 </div>
 
