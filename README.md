@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="46px" width="46px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="46px" width="46px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46px" width="46px"/>
-  <img src="https://www.php.net//images/logos/new-php-logo.svg" height="46px" width="46px"/>
+  <img src="https://www.php.net//images/logos/new-php-logo.svg" height="60px" width="60px"/>
 </div>
   
 <br><br>
