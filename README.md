@@ -75,7 +75,6 @@
   <code>Fonts Google</code>
   <br>
   <p>w/ <a href="">Roberto Dantas</a></p>
-  <br>
   <a href="https://www.linkedin.com/posts/jos%C3%A9-henrique-lima-alves-23a431254_desenvolvimentodesistemas-sistemaparaadegas-ugcPost-7304912889109217280-vxod?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD62Kw4BkeU32yEFR_PMMaKUXr9VTf1PMp0" target="_blank">Projeto no Linkedin</a> 
   <br>
   <a href="" target="_blank">Ver no GitHub</a>
