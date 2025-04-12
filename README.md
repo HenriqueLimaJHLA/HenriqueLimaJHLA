@@ -3,14 +3,14 @@
 
 ## Apresentação:
 <div>
-  <li>Sou Técnico em Desenvolvimento de Sistemas pela ETEC</li>
+  <li>👨‍💻 Sou Técnico em Desenvolvimento de Sistemas pela ETEC</li>
   <li></li>
   <li></li>
 </div>
 <center><p>Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec de Sapopemba. Espero que gostem do meu perfil!!!</p></center>
 </br>
 
-## Linguagens | Ferramentas | Frameworks:
+## 💻 Linguagens | Ferramentas | Frameworks:
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="45px" width="45px"/>
