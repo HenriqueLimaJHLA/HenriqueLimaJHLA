@@ -54,6 +54,8 @@
   •
   <code>Bootstrap | Fonts Google | SweetAlert2</code>
   <br>
+  <p>with/ <a href="">Equipe LPITech</a></p>
+  
   <a href="https://www.linkedin.com/in/jos%C3%A9-henrique-lima-alves-23a431254/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAD62Kw4BkeU32yEFR_PMMaKUXr9VTf1PMp0" target="_blank">Projeto no Linkedin</a> 
 </div>
 
@@ -74,7 +76,7 @@
   •
   <code>Fonts Google</code>
   <br>
-  <p>w/ <a href="">Roberto Dantas</a></p>
+  <p>with/ <a href="">Roberto Dantas</a></p>
   <a href="https://www.linkedin.com/posts/jos%C3%A9-henrique-lima-alves-23a431254_desenvolvimentodesistemas-sistemaparaadegas-ugcPost-7304912889109217280-vxod?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD62Kw4BkeU32yEFR_PMMaKUXr9VTf1PMp0" target="_blank">Projeto no Linkedin</a> 
   <br>
   <a href="" target="_blank">Ver no GitHub</a>
