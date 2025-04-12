@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo ao meu perfil do GitHub!!
 
-<br><br>
+<br>
 ## Apresentação
 <center><p>Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec de Sapopemba. Espero que gostem do meu perfil!!!</p></center>
 
@@ -8,7 +8,6 @@
 ## Linguagens | Ferramentas | Frameworks
 
 <div>
-  
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="45px" width="45px"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="45px" width="45px"/>
@@ -25,14 +24,14 @@
   <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" height="45px" width="45px"/> 
 </div>
   
-<br><br>
+<br>
 ## Github Stats
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelimajhla&layout=compact&langs_count=7&theme=dark"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquelimajhla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
   
-<br><br>
+<br>
 ## Contato:
 
 <div>
