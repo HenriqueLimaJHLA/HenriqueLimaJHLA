@@ -8,6 +8,12 @@
   <li>Em busca do ingresso no mercado de trabalho na área de T.I</li>
 </div>
 
+## Idiomas
+<div>
+  <h1>Idiomas</h1>
+  <h5>Inglês: Básico – Em progresso, com foco em leitura e escrita técnica.</h5>
+</div>
+
 ## 💻 Linguagens | Ferramentas | Frameworks:
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="45px" width="45px"/>
