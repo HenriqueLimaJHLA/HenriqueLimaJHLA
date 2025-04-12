@@ -66,6 +66,9 @@
   •
   <code>JS | jQuery | Ajax</code>
   •
+  •
+  <code>Bibliotecas JS: jsPDF | Exceljs</code>
+  •
   <code>HTML/CSS</code>
   •
   <code>Fonts Google</code>
