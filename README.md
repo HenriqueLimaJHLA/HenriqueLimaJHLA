@@ -6,7 +6,7 @@
 <center><p>Meu nome é José Henrique, tenho 16 anos, estou no 2º ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec de Sapopemba. Espero que gostem do meu perfil!!!</p></center>
 
 <br><br>
-## Aperfeiçoando em
+## Linguagens e Ferramentas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="46px" width="46px"/>
