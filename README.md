@@ -45,6 +45,7 @@
 
 <div>
   <h3>Sistema de Controle de Estoque de Adegas:</h3>
+  <p>Aplicação completa (fullstack) que visa trazer consistência ao Gerenciamento de Estoque das Adegas - CRUD, relatórios em pdf e excel, login, cadastramento de produtos e usuários.</p>
   <code>PHP</code>
   •
   <code>SQL | MySQL</code>
