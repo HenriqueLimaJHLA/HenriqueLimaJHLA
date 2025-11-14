@@ -242,11 +242,8 @@
   <code>smtplib / email</code>
   •
   <code>logging</code>
-
   <br />
-
   <a href="https://github.com/HenriqueLimaJHLA/aps-2-semestre" target="_blank">Ver no GitHub</a>
-
 </div>
 
 <br />
