@@ -1,4 +1,6 @@
-### 👋 Olá, seja bem vindo ao meu perfil do GitHub!! ## 🙋🏻‍♂️ Apresentação:
+### 👋 Olá, seja bem vindo ao meu perfil do GitHub!! 
+
+## 🙋🏻‍♂️ Apresentação:
 <div>
   <li>👨‍🎓 Sou Técnico em Desenvolvimento de Sistemas pela ETEC;</li>
   <li>
