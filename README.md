@@ -208,7 +208,6 @@
     target="_blank"
     >Ver Website no navegador</a
   >
-  <br />
   <a
     href="https://github.com/BrunoTorres23/tecnologia-e-sustentabilidade-aps-unip"
     target="_blank"
