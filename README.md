@@ -146,7 +146,7 @@
     >Projeto no Linkedin</a
   >
   <br />
-  <a href="" target="_blank">Ver no GitHub</a>
+  <a href="https://github.com/HenriqueLimaJHLA/SGRA" target="_blank">Ver no GitHub</a>
 </div>
 <br />
 
@@ -181,7 +181,7 @@
     >Projeto no Linkedin</a
   >
   <br />
-  <a href="" target="_blank">Ver no GitHub</a>
+  <a href="https://github.com/HenriqueLimaJHLA/Projeto_Controle_de_Estoque_de_Adegas" target="_blank">Ver no GitHub</a>
 </div>
 <br />
 
