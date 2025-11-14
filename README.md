@@ -91,7 +91,7 @@
   •
   <code>Fonts Google</code>
   <br>
-  <p>with/ <a href="https://github.com/BrunoTorres23" target="_blank">Bruno Dantas</a></p>
+  <p>with/ <a href="https://github.com/BrunoTorres23" target="_blank">Bruno Dantas</a> and <a href="https://github.com/IsleyMedeiros" target="_blank">IsleyMedeiros</a></p>
   <br>
   <a href="https://github.com/BrunoTorres23/tecnologia-e-sustentabilidade-aps-unip" target="_blank">Ver no GitHub</a>
 </div>
