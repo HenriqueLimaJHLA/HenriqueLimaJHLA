@@ -80,6 +80,22 @@
   <a href="" target="_blank">Ver no GitHub</a>
 </div>
 
+<br>
+
+<div>
+  <h3>Website Tecnologia e Sustentabilidade - APS Unip </h3>
+  <p>Site frontend voltado à conteúdo educacional sobre como a tecnologia pode ser tanto favorável, quanto desfavorável para o meio ambiente - relação com o ser humano.</p>
+  <code>HTML/CSS</code>
+  •
+  <code>Javascript nativo</code>
+  •
+  <code>Fonts Google</code>
+  <br>
+  <p>with/ <a href="https://github.com/BrunoTorres23" target="_blank">Bruno Dantas</a></p>
+  <br>
+  <a href="https://github.com/BrunoTorres23/tecnologia-e-sustentabilidade-aps-unip" target="_blank">Ver no GitHub</a>
+</div>
+
 ## 🌐 Contato:
 <div>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnSmVgjqdBcQjMvqMDSfgrPghKkrdSHtNVvNcfDcZgGdQWfjZHlFqQMsVNjTCMMgXbfDs" target="blink"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFFFFF" height="40px" width="40px"></a>
