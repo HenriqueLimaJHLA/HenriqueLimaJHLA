@@ -46,7 +46,7 @@
     width="45px"
   />
   <img
-    src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/525px-Webysther_20160423_-_Elephpant.svg.png?20160423214552"
     height="45px"
     width="45px"
   />
