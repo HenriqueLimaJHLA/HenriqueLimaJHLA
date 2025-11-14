@@ -145,6 +145,8 @@
     target="_blank"
     >Projeto no Linkedin</a
   >
+  <br />
+  <a href="" target="_blank">Ver no GitHub</a>
 </div>
 <br />
 
