@@ -217,6 +217,33 @@
 
 <br />
 
+<div>
+  <h3>Aplicação Desktop “APS – 2º Semestre”</h3>
+  <p>
+    Aplicação para conscientização sobre descarte sustentável de resíduos
+    eletrônicos, com cadastro de usuários, ranking, questionário e gráficos.
+    :contentReference[oaicite:0]{index=0}
+  </p>
+  <code>Python 3.x</code> • <code>Tkinter (interface gráfica)</code> •
+  <code>sv_ttk (tema dark/light)</code> • <code>Pillow (PIL)</code> •
+  <code>matplotlib</code> • <code>pandas</code> • <code>bcrypt</code> •
+  <code>sqlite3</code> • <code>smtplib / email</code> •
+  <code>logging</code> :contentReference[oaicite:1]{index=1}
+  <br />
+  <p>
+    With/
+    <a href="https://github.com/HenriqueLimaJHLA" target="_blank"
+      >Henrique Lima</a
+    >
+  </p>
+  <a href="https://github.com/HenriqueLimaJHLA/aps-2-semestre" target="_blank"
+    >Ver no GitHub</a
+  >
+</div>
+::contentReference[oaicite:2]{index=2}
+
+<br />
+
 ## 🌐 Contato:
 <div>
   <a
