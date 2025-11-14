@@ -245,11 +245,7 @@
 
   <br />
 
-  <a
-    href="https://github.com/HenriqueLimaJHLA/aps-2-semestre"
-    target="_blank"
-    >Ver no GitHub</a
-  >
+  <a href="https://github.com/HenriqueLimaJHLA/aps-2-semestr" target="_blank">Ver no GitHub</a>
 </div>
 
 <br />
@@ -263,7 +259,8 @@
       src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=FFFFFF"
       height="40px"
       width="40px"
-  /></a>
+  />
+  </a>
   <a
     href="https://www.linkedin.com/in/josé-henrique-lima-alves-23a431254/"
     target="blink"
