@@ -252,7 +252,7 @@
 
 ## 🌐 Contato:
 <div>
-  <a href="mailto:josehenriquefnbr@gmail.com" target="_blank" style="display: inline-flex;">
+  <a href="mailto:josehenriquefnbr@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40px" width="40px"/>
   </a>
   <a href="https://www.linkedin.com/in/josé-henrique-lima-alves-23a431254/" target="_blank">
