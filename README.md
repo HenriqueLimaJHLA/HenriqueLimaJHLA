@@ -219,8 +219,8 @@
 <div>
   <h3>Aplicação Desktop: Ciência do Uso e Descarte Eletrônico - APS Unip 1º Semestre</h3>
   <p>
-    Aplicação para conscientização sobre descarte sustentável de resíduos
-    eletrônicos, com cadastro de usuários, ranking, questionário e gráficos.
+    Aplicação educativa sobre descarte sustentável de resíduos eletrônicos, com cadastro de usuários, ranking, questionário e gráficos, 
+    visando conscientizar sobre práticas responsáveis e impacto ambiental.
   </p>
   <code>Python 3.x</code>
   •
