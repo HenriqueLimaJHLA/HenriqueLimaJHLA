@@ -223,25 +223,27 @@
     Aplicação para conscientização sobre descarte sustentável de resíduos
     eletrônicos, com cadastro de usuários, ranking, questionário e gráficos.
   </p>
-  <code>Python 3.x</code> 
-  • 
-  <code>Tkinter (interface gráfica)</code> 
+  <code>Python 3.x</code>
   •
-  <code>sv_ttk (tema dark/light)</code> 
-  • 
-  <code>Pillow (PIL)</code> 
+  <code>Tkinter (interface gráfica)</code>
   •
-  <code>matplotlib</code> 
-  • 
+  <code>sv_ttk (tema dark/light)</code>
+  •
+  <code>Pillow (PIL)</code>
+  •
+  <code>matplotlib</code>
+  •
   <code>pandas</code>
-  • 
-  <code>bcrypt</code> 
+  •
+  <code>bcrypt</code>
   •
   <code>sqlite3</code>
-  • 
-  <code>smtplib / email</code> 
+  •
+  <code>smtplib / email</code>
   •
   <code>logging</code>
+
+  <br />
 
   <a href="https://github.com/HenriqueLimaJHLA/aps-2-semestre" target="_blank"
     >Ver no GitHub</a
