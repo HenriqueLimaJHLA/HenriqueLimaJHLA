@@ -47,8 +47,8 @@
   />
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/525px-Webysther_20160423_-_Elephpant.svg.png?20160423214552"
-    height="45px"
-    width="45px"
+    height="50px"
+    width="50px"
   />
   <img
     src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000"
