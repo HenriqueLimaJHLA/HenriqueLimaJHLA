@@ -12,7 +12,7 @@
     Bacharelando em Ciência da Computação na Universidade Paulista;
   </li>
   <li>
-    👨‍💻 Tenho preferência em desenvolvimento back end e Banco de Dados - PHP |
+    👨‍💻 Tenho preferência em desenvolvimento backend e Banco de Dados - PHP |
     MySQL;
   </li>
   <li>Em busca do ingresso no mercado de trabalho na área de T.I.</li>
