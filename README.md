@@ -186,8 +186,8 @@
 <div>
   <h3>Website: Tecnologia e Sustentabilidade - APS Unip 1º Semestre</h3>
   <p>
-    Site frontend voltado à conteúdo educacional sobre como a tecnologia pode
-    ser tanto favorável, quanto desfavorável para o meio ambiente - relação meio social e meio natural.
+    Site frontend educativo sobre o impacto da tecnologia no meio ambiente, abordando como ela pode ser tanto benéfica quanto prejudicial, 
+    considerando a relação entre sociedade, meio social e meio natural.
   </p>
   <code>HTML/CSS</code>
   •
