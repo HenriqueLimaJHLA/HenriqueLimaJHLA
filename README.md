@@ -121,7 +121,7 @@
 
 ## ⚙️ Projetos
 <div>
-  <h3>Sistema de Gerenciamento de Reservas de Ambientes - TCC ETEC</h3>
+  <h3>Aplicação Web: Gerenciamento de Reservas de Ambientes - TCC ETEC</h3>
   <p>
     Aplicação web para gestão eficiente de reservas de espaços em instituições
     de ensino e centros culturais, como a Fábrica de Cultura e Etec de
@@ -149,7 +149,7 @@
 <br />
 
 <div>
-  <h3>Sistema de Controle de Estoque de Adegas</h3>
+  <h3>Aplicação Web: Controle de Estoque de Adegas</h3>
   <p>
     Aplicação completa (fullstack) que visa trazer consistência ao Gerenciamento
     de Estoque das Adegas - CRUD, relatórios em pdf e excel, login,
