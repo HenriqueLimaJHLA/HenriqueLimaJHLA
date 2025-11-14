@@ -204,15 +204,15 @@
   </p>
   <br />
   <a
-    href="https://github.com/BrunoTorres23/tecnologia-e-sustentabilidade-aps-unip"
-    target="_blank"
-    >Ver no GitHub</a
-  >
-  <br />
-  <a
     href="https://brunotorres23.github.io/tecnologia-e-sustentabilidade-aps-unip/"
     target="_blank"
     >Ver Website no navegador</a
+  >
+  <br />
+  <a
+    href="https://github.com/BrunoTorres23/tecnologia-e-sustentabilidade-aps-unip"
+    target="_blank"
+    >Ver no GitHub</a
   >
 </div>
 
