@@ -121,7 +121,7 @@
 
 ## ⚙️ Projetos
 <div>
-  <h3>Sistema de Gerenciamento de Reservas de Ambientes (TCC):</h3>
+  <h3>Sistema de Gerenciamento de Reservas de Ambientes - TCC ETEC</h3>
   <p>
     Aplicação web para gestão eficiente de reservas de espaços em instituições
     de ensino e centros culturais, como a Fábrica de Cultura e Etec de
@@ -149,7 +149,7 @@
 <br />
 
 <div>
-  <h3>Sistema de Controle de Estoque de Adegas:</h3>
+  <h3>Sistema de Controle de Estoque de Adegas</h3>
   <p>
     Aplicação completa (fullstack) que visa trazer consistência ao Gerenciamento
     de Estoque das Adegas - CRUD, relatórios em pdf e excel, login,
@@ -184,7 +184,7 @@
 <br />
 
 <div>
-  <h3>Website Tecnologia e Sustentabilidade - APS Unip 1º Semestre</h3>
+  <h3>Website: Tecnologia e Sustentabilidade - APS Unip 1º Semestre</h3>
   <p>
     Site frontend voltado à conteúdo educacional sobre como a tecnologia pode
     ser tanto favorável, quanto desfavorável para o meio ambiente - relação com
@@ -218,7 +218,7 @@
 <br />
 
 <div>
-  <h3>Aplicação Desktop - APS Unip 1º Semestre</h3>
+  <h3>Aplicação Desktop: Ciência do Uso e Descarte Eletrônico - APS Unip 1º Semestre</h3>
   <p>
     Aplicação para conscientização sobre descarte sustentável de resíduos
     eletrônicos, com cadastro de usuários, ranking, questionário e gráficos.
