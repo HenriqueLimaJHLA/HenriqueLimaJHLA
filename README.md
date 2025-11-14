@@ -11,11 +11,11 @@
     />
     Bacharelando em Ciência da Computação na Universidade Paulista;
   </li>
+  <li>👨‍💻 Atuo como Suporte Técnico de T.I.</li>
   <li>
-    👨‍💻 Tenho preferência em desenvolvimento backend e Banco de Dados - PHP |
-    MySQL;
+    💾 Entusiasta de desenvolvimento backend, especialmente utilizando PHP e
+    MySQL.
   </li>
-  <li>Em busca do ingresso no mercado de trabalho na área de T.I.</li>
 </div>
 
 ## 🌍 Idiomas
