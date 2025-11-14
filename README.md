@@ -4,6 +4,7 @@
 <div>
   <li>👨‍🎓 Sou Técnico em Desenvolvimento de Sistemas pela ETEC;</li>
   <li>
+    [UNIP]
     <img
       src="https://www.unip.br/assets/img/apple-touch-icon-180x180.png"
       height="20px"
